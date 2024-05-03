@@ -1,3 +1,3 @@
-# Intro-07-Swift-TryCatch
+# Unit3-05-Swift-BinSearch
 
-[![Mr Coxall's Super Linter](https://github.com/ICS4U-Programming-TamerZ/Intro-07-Swift-TryCatch/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS4U-Programming-TamerZ/Intro-07-Swift-TryCatch/actions/)
+[![Mr Coxall's Super Linter](https://github.com/ICS4U-Programming-TamerZ/Unit3-05-Swift-BinSearch/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS4U-Programming-TamerZ/Unit3-05-Swift-BinSearch/actions/)
