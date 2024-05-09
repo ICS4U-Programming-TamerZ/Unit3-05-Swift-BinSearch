@@ -1,0 +1,6 @@
+Target 5 found at index 4 in the array.
+Target 20 found at index 9 in the array.
+Target 9 found at index 2 in the array.
+Target 0 not found in the array.
+Target 20 found at index 9 in the array.
+Target 0 not found in the array.
